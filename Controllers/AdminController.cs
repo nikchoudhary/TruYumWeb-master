@@ -20,18 +20,18 @@ namespace TruYum.Controllers
             new MenuItem
             {
                 Id=1,
-                Name="EggRoll",
+                Name="Biryani",
                 freeDelivery=true,
                 Price=20.50,
                 Active=true,
                 DateOfLaunch=new DateTime(2020,09,18),
                 categoryId=101
-
+                //added
             },
             new MenuItem
             {
                 Id=2,
-                Name="Chowmein",
+                Name="Tandoori",
                 freeDelivery=true,
                 Price=50.00,
                 Active=true,
